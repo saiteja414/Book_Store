@@ -45,8 +45,8 @@ python3 manage.py run_chat_server
 
 ## Authors
 
-* **Saiteja Talluri** - [saiteja-talluri](https://github.com/saiteja-talluri)
-* Saiteja Nangunoori
+* **Saiteja Nangunoori** - [saiteja414](https://github.com/saiteja414)
+* Saiteja Talluri
 * Sathvik Reddy
 
 
